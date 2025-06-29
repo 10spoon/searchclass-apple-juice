@@ -1,29 +1,24 @@
-# searchclass-apple-juice
+# README
 
-## Project Name will be:
-A – Apple juice
-B – Banana smoothie
-C – Chamomile tea
-D – Dandelion tea
-E – Elderflower tea
-F – Fruit punch
-G – Ginger tea
-H – Herbal tea
-I – Iced tea
-J – Juice
-K – Kefir
-L – Lemonade
-M – Milkshake
-N – Nut milk
-O – Orange juice
-P – Pineapple juice
-Q – Quince tea
-R – Rice milk
-S – Soy milk
-T – Tomato juice
-U – Ube milk
-V – Vegetable juice
-W – Water
-X – Xocolatl
-Y – Yogurt drink
-Z – Zest tea
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
